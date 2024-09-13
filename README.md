@@ -30,7 +30,7 @@ Selamat datang di proyek **Clinic Website**! 🎉 Proyek ini dibangun menggunaka
 
 2. **Masuk ke Direktori Proyek**:
     ```bash
-    cd clinic_website
+    cd clinic-website
     ```
 
 3. **Update Dependensi**:
