@@ -25,7 +25,7 @@ Selamat datang di proyek **Clinic Website**! 🎉 Proyek ini dibangun menggunaka
 
 1. **Clone Repository**:
     ```bash
-    git clone https://github.com/alfian742/clinic_website.git
+    git clone https://github.com/alfian742/clinic-website.git
     ```
 
 2. **Masuk ke Direktori Proyek**:
